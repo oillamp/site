@@ -1,0 +1,13 @@
+{
+    "title": "爱心捐赠",
+    "id": 1,
+    "start": 0,
+    "data": [
+        {
+            "alt": "爱心支持，我会更努力",
+            "pid": 1,
+            "src": "/images/weixinpay.jpg",
+            "thumb": "/weixinpay.jpg"
+        }
+    ]
+}
